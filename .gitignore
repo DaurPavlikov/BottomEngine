@@ -33,3 +33,6 @@
 
 build/
 .vscode/
+.kdev4/
+
+BottomEngine.kdev4
